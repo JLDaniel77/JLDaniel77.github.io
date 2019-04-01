@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://username.github.io"
+url: "https://JLDaniel77.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,18 +17,18 @@ baseurl: ""
 title: Jeff - Data Science Student
 
 # Short description of your site
-description: This is where I will describe my website
+description: Personal page and data science project portfolio.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  # Resources:
+  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #   - Learn markdown: "http://www.markdowntutorial.com/"
+  #   - GitHub Pages: "https://pages.github.com/"
+  # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -72,9 +72,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "Jeff.Daniel77@gmail.com"
   #facebook: daattali
-  github: JLDaniel77.github.com
+  github: JLDaniel77
   #twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "JLDaniel77.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "JLDaniel77.GitHub.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -158,7 +158,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Eastern"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
