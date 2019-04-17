@@ -1,3 +1,10 @@
+---
+layout: post
+published: true
+title: 'Driverless Trucks:'
+subtitle: Why Drivers Are Not as Replaceable as Some May Think
+date: '2019-04-12'
+---
 # Driverless Trucks: Why Drivers Are Not as Replaceable as Some May Think
 
 **Automation has reshaped life in the 21st Century.** It has transformed how we
