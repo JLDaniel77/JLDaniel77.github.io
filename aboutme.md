@@ -8,4 +8,4 @@ Hi, I'm Jeff Daniel. Currently, I am a student at Lambda School studying data sc
 
 ### my history
 
-I have a bachelor's degree in Psychology and a master's degree in business administration. The bulk of my career has been working in customer service, including five years at a trucking company. There's so many ways to apply data science in the trucking industry, such as analyzing industry trends, building predictive models to anticipate market shifts, creating data pipelines, using machine learning to optimize asset utilization, and using unsupervised learning to create driverless technology, just to name a few.
+I have a bachelor's degree in Psychology and a master's degree in business administration. The bulk of my career has been working in customer service, including seven years at a trucking company. There's so many ways to apply data science in the trucking industry, such as analyzing industry trends, building predictive models to anticipate market shifts, creating data pipelines, using machine learning to optimize asset utilization, and using unsupervised learning to create driverless technology, just to name a few.
