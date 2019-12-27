@@ -131,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fa-linkedin"
+      url: "https://www.linkedin.com/in/jeff-daniel-48806b186/"
 
 # Site Footer
 footer:
