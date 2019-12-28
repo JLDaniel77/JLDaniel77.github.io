@@ -1,7 +1,7 @@
 ---
 title: "Predictive Modeling Project"
 date: 2019-05-24
-# tags: [machine learning, data wrangling, data science]
+tags: [machine learning, data wrangling, data science]
 header:
     image: "/images/water_pump_challenge/water_pump_pic.jpg"
 ---
