@@ -14,7 +14,6 @@ header:
     </a>
 </div>
 <br>
-<br>
 Description text goes here.
 
 ### Twitoff Tweet Prediction App
@@ -23,6 +22,5 @@ Description text goes here.
         <img src="{{ site.url }}{{ site.baseurl }}/images/twitoff/twitter_logo.jpg" width="350px" height="auto">
     </a>
 </div>
-<br>
 <br>
 Description text goes here.
