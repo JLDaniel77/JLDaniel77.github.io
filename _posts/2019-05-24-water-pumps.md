@@ -25,7 +25,7 @@ more technical aspects, you can find the notebooks in my GitHub repository
 
 #### Insights From Data Exploration
 
-<img src="/images/water_pump_challenge/permutation_importance.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/permutation_importance.JPG">
 
 After building a model, I ran a permutation importance report. This report
 indicates that water quantity has the greatest impact on the model. Water
@@ -34,20 +34,20 @@ seasonal, and unknown. Looking at the graph below, we see that there are over
 5,000 functioning water pumps with enough water. However, there are more than
 2,000 water pumps with enough water, but non-functional.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/status_based_on_quantity.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/status_based_on_quantity.JPG">
 
 From the chart above, we also see that the non-functioning pumps have the
 highest number of dry water sources. This makes sense because a dry well would
 be abandoned and neglected.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/status_based_on_quality.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/status_based_on_quality.JPG">
 
 The chart above shows more than 4,000 non-functioning water pumps have a water
 quality of good. It is quite possible that some or all of the 2,000
 non-functioning water pumps with a sufficient water supply (from the previous
 chart) could also have drinkable water.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/status_based_on_quality_and_quantity.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/status_based_on_quality_and_quantity.JPG">
 
 From the chart above, we see that there are close to 2,000 water pumps that are
 non-functional with water quality of good and water quantity of enough. Surely,
@@ -61,7 +61,7 @@ status in the training data seen below, we know that we have approximately a 46%
 chance of correctly choosing to visit a water pump that is non-functional or
 functional needs repair. Those are horrible odds.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/value_counts.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/value_counts.JPG">
 
 #### How do we improve results?
 
@@ -69,7 +69,7 @@ We need to build a predictive model to increase our ability to correctly
 classify water pumps based on new data. With limited resources, it is not
 possible to visit all 14,000+ water pumps, so a targeted approach is required.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/confusion_matrix.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/confusion_matrix.JPG">
 
 The two charts above are a classification report and a confusion matrix. I have
 combined non-functional and functional needs repair for the sake of simplicity.
@@ -97,7 +97,7 @@ repairs. We want to ensure that we are only sending out service crews to
 non-functioning pumps. We run our model and sort our predicted values, so we are
 selecting the top 2,000 pumps that our model has predicted as non-functional.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/actual_vs_predicted.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/actual_vs_predicted.JPG">
 
 From the list of our top 2,000 predictions, we find that our model has correctly
 predicted 1,982 water pumps as non-functional; this is 99.1% accuracy. Compared
