@@ -12,15 +12,16 @@ header:
     <a href="https://nba-clp.netlify.com/login">
         <img src="{{ site.url }}{{ site.baseurl }}/images/nba/nba_logo.jpg" width="350px" height="auto">
     </a>
-</div>
 <br>
 Description text goes here.
+</div>
+
 
 ### Twitoff Tweet Prediction App
 <div style="width:500px;height:500px;overflow:hidden;" >
     <a href="https://jldaniel77-twitoff.herokuapp.com/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/twitoff/twitter_logo.jpg" width="350px" height="auto">
     </a>
-</div>
 <br>
 Description text goes here.
+</div>
