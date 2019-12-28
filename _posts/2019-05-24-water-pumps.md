@@ -25,7 +25,7 @@ more technical aspects, you can find the notebooks in my GitHub repository
 
 #### Insights From Data Exploration
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/water_pump_challenge/permutation_importance.jpg">
+<img src="/images/water_pump_challenge/permutation_importance.jpg">
 
 After building a model, I ran a permutation importance report. This report
 indicates that water quantity has the greatest impact on the model. Water
