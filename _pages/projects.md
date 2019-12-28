@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Data Science Projects"
 author_profile: true
 header:
-    image: "/images/chatt_header_img4.jpg"
+    image: "/images/mountains_img.jpg"
 ---
 
 ### NBA Career Longevity Prediction App
