@@ -15,7 +15,7 @@ header:
 </div>
 The NBA career longevity app was a cross-functional team project, which was completed within a week. I was one of four data science students working on the project. Our objective was to create a model to predict an NBA player's career length based on their statistics. We also created a model to find the most similar player to the player selected by the end user. We then created an API with endpoints to send player stats and predictions to the frontend. My contributions:
 * Web scraped [Basketball-Reference.com](https://www.basketball-reference.com/draft/NBA_2018.html) to get player images and relevant stats for years 1976-2018.
-* Built the career longevity model using XGBoost regressor and hyperparameter tuning, which has an R-sqared score of 0.85 and mean absolute error of 1.44.
+* Built the career longevity model using XGBoost regressor and hyperparameter tuning. Model results: R-sqared score of 0.85 and mean absolute error of 1.44.
 * Built PostgreSQL database to store player stats with the output from both the career longevity and the k-nearest neighbors models.
 
 
