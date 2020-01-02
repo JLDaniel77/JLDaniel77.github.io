@@ -8,6 +8,7 @@ header:
 ---
 
 ### NBA Career Longevity Prediction App
+(Click image below to view app)
 <div style="width:350px;height:350px;overflow:hidden;" >
     <a href="https://nba-clp.netlify.com/login">
         <img src="{{ site.url }}{{ site.baseurl }}/images/nba/nba_logo.jpg" width="350px" height="auto">
@@ -19,6 +20,7 @@ The NBA career longevity app was a cross-functional team project, which was comp
 * Built PostgreSQL database to store player stats with the output from both the career longevity and the k-nearest neighbors models.
 
 ### Twitoff Tweet Prediction App
+(Click image below to view app)
 <div style="width:350px;height:350px;overflow:hidden;" >
     <a href="https://jldaniel77-twitoff.herokuapp.com/">
         <img src="{{ site.url }}{{ site.baseurl }}/images/twitoff/twitter_logo.jpg" width="350px" height="auto">
