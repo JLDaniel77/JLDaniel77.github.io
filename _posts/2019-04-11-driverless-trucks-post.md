@@ -1,3 +1,9 @@
+---
+title: "My First Lambda School Blog Post"
+date: 2019-04-11
+tags: [driverless trucks, automation, logistics]
+---
+
 ### Driverless Trucks: Why Drivers Are Not as Replaceable as Some May Think
 
 **Automation has reshaped life in the 21st Century.** It has transformed how we

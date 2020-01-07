@@ -1,3 +1,9 @@
+---
+title: "Kaggle API for Windows Users"
+date: 2019-08-08
+tags: [kaggle api, machine learning competition]
+---
+
 ### Accessing the Kaggle.com API with Jupyter Notebook on Windows
 
 This week is project week at [Lambda School](https://lambdaschool.com/), and our
